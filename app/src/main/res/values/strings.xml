@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Restoran Makanan</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_menu">Makanan yang cocok disantap bersama pasangan</string>
+    <string name="pilihan_makanan">Burger</string>
+    <string name="price">Rp. 100.000 </string>
+    <string name="Harga_makanan">Rp. 100.000 </string>
+
+    <string-array name="makanan">
+        <item>Kentang</item>
+        <item>Minuman</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for
+Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin Your
+Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And
+\nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for
+Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+</resources>
